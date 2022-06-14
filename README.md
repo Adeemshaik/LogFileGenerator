@@ -12,11 +12,6 @@ Our entire project code base is written entirely in Scala and the pipeline is cr
 
 In the later sections, we will take a detailed look at our code + cloud architecture for this project.
 
-The project comprises 3 Git repositories, each containing their own detailed README files with explanations:
-
-- **Project Component 1: https://github.com/niharjoshi/LogFileGeneratorDeployment.git (current)**
-- Project Component 2: https://github.com/niharjoshi/RedisMonitor.git
-- Project Component 3: https://github.com/niharjoshi/SparkLogAlertSystem.git
 
 ---
 
