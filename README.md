@@ -6,6 +6,14 @@
 
 In this project we build a log file monitoring system that sends email alerts to the project stakeholders when any **WARN** or **ERROR** logs are produced by our Log File Generator application.
 
+In the later sections, we will take a detailed look at our code + cloud architecture for this project.
+
+The project comprises 3 Git repositories, each containing their own detailed README files with explanations:
+
+- **Project Component 1: https://github.com/Adeemshaik/LogFileMonitoring.git (current)**
+- Project Component 2: https://github.com/Adeemshaik/RedisMonitoring.git 
+- Project Component 3: https://github.com/Adeemshaik/SparkLogAlert.git
+
 Our entire project code base is written entirely in Scala and the pipeline is created using the following technology stack:
 
 ![Alt text](doc/technologies.jpg?raw=true "Technology Stack")
@@ -215,16 +223,3 @@ We can check the value of a key:
 
 ---
 
-## Checklist
-
-- [x] All tasks completed
-- [x] Installation instructions in README
-- [x] In-depth documentation
-- [x] Successful AWS deployment
-- [x] YouTube video
-- [x] More than 5 unit tests
-- [x] Comments and explanations
-- [x] Logging statements
-- [x] No hardcoded values
-- [x] No var or heap-based variables used
-- [x] No for, while or do-while loops used
