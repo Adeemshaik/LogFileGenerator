@@ -33,7 +33,7 @@ We recommend cloning this repository onto your local machine and running it from
 
 To clone the repo use:
 ```console
-git clone https://github.com/niharjoshi/LogFileGeneratorDeployment.git
+git clone https://github.com/adeemshaik/LogFileGeneratorDeployment.git
 ```
 
 Navigate to the repo and use the following command to run the unit test cases:
